@@ -5,3 +5,5 @@ echo "Disk information"
 #df -h
 echo "Date"
 date
+du -sh
+ps -ef
